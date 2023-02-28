@@ -1,4 +1,4 @@
-﻿namespace Program10
+﻿namespace quadratic_equation_solver
 {
     internal class Program
     {
